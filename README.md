@@ -1,15 +1,20 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Website%20and%20Mobile%20Developer%21&descAlignY=55&descAlign=61.5&fontColor=ffffff)
+
 <div align="center">
    <a href="https://github.com/wachidamirul">
-    <img src="https://github-readme-stats.vercel.app/api?username=wachidamirul&show_icons=true&hide=contribs,issues&theme=vue-dark" alt="Github Stats">
-  </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=wachidamirul&color=4dc720&style=flat" alt="Github Profile Views" />
-  <img src="https://wakatime.com/badge/user/7a831ab0-e43a-4215-aa08-92f915bed065.svg" alt="Total time coded since Sep 29 2019" />
-  <img src="https://img.shields.io/github/followers/wachidamirul?color=4C1&logo=github" alt="Github Followers" />
+    <img height="140em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wachidamirul&locale=en&show_icons=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883&hide=contribs,issues" alt="Github Stats">
+   </a>
+   <a href="https://github.com/wachidamirul">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachidamirul&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+   </a>
+   <br><br>
+   <img src="https://komarev.com/ghpvc/?username=wachidamirul&color=4dc720&style=flat" alt="Github Profile Views" />
+   <img src="https://wakatime.com/badge/user/544317a4-d0db-4f4a-8383-97af1aa51ca1.svg" alt="Time coded" />
+   <img src="https://img.shields.io/github/followers/wachidamirul?color=4C1&logo=github" alt="Github Followers" />
 </div>
 <br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hello. My full name is Wachid Amirul Muslim, and you can call me "Wachid". I'm Software Engineer who specialized in *Frontend* on Full-time works, but also have some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hello. My full name is **Wachid Amirul Muslim**, and you can call me "Wachid". I'm Software Engineer who specialized in *Frontend* on Full-time works, but also have some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
 
 ***<p align="center">And, I would be open-mind to learning other Tech Stacks if needed.</p>***
 
@@ -25,6 +30,11 @@
 - LinkedIn: [wachidamirul](https://www.linkedin.com/in/wachidamirul)
 - Instagram: [@wachid.amirul](https://instagram.com/wachid.amirul)
 
+<p align="center">
+    <a href="https://wachidamirul.com"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=wachidamirul.com&style=flat-square&up_message=Online&url=http://wachidamirul.com"></a>
+</p>
+
 ---
 
-<div align="center">© 2022 — Wachid Amirul Muslim</div>
+<p align="center">© 2022 — Wachid Amirul Muslim</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41b883,50:175c3d,100:277753&section=footer&height=80" width="100%"/>
