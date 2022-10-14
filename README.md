@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Website%20and%20Mobile%20Developer%21&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hello. My full name is **Wachid Amirul Muslim**, and you can call me "Wachid". I'm Software Engineer who specialized in *Frontend* on Full-time works, but also have some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
+
+<br>
 <div align="center">
    <a href="https://github.com/wachidamirul">
     <img height="140em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=wachidamirul&locale=en&show_icons=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883&hide=contribs,issues" alt="Github Stats">
@@ -13,10 +16,6 @@
    <img src="https://img.shields.io/github/followers/wachidamirul?color=4C1&logo=github" alt="Github Followers" />
 </div>
 <br>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hello. My full name is **Wachid Amirul Muslim**, and you can call me "Wachid". I'm Software Engineer who specialized in *Frontend* on Full-time works, but also have some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
-
-***<p align="center">And, I would be open-mind to learning other Tech Stacks if needed.</p>***
 
 ## <img src="https://media0.giphy.com/media/4YCCY41GKzDuYeHnWW/200.gif" width="30"> Currently Learning:
 - Cryptocurrency & Blockchain
