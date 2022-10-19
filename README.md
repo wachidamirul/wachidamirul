@@ -12,10 +12,11 @@
    </a>
    <br><br>
    <img src="https://komarev.com/ghpvc/?username=wachidamirul&color=4dc720&style=flat" alt="Github Profile Views" />
-   <img src="https://wakatime.com/badge/user/544317a4-d0db-4f4a-8383-97af1aa51ca1.svg" alt="Time coded" />
+   <a href="https://wakatime.com/@230e97e1-a67a-43d4-9d5b-84b78778c941"><img src="https://wakatime.com/badge/user/230e97e1-a67a-43d4-9d5b-84b78778c941.svg" alt="Total time coded since Oct 14 2022" /></a>
    <img src="https://img.shields.io/github/followers/wachidamirul?color=4C1&logo=github" alt="Github Followers" />
 </div>
 <br>
+
 
 ## <img src="https://media0.giphy.com/media/4YCCY41GKzDuYeHnWW/200.gif" width="30"> Currently Learning:
 - Cryptocurrency & Blockchain
