@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Website%20and%20Mobile%20Developer%21&descAlignY=55&descAlign=61.5&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> Hello. My full name is **Wachid Amirul Muslim**, and you can call me "Wachid". I'm Software Engineer who specialized in *Frontend* on Full-time works, but also have some ability to code in *Backend* on Freelance/Side works. Very passionate about modern *mobile and web technology* while taking into consideration the latest trends and techniques.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> I am **Wachid Amirul Muslim**, a full-stack developer with a wide range of skills in different programming languages and technologies. I have experience working with JavaScript, Python, PHP, React, Node.js, and Express. My passion is to create high-quality, user-friendly and innovative applications. I am always willing to learn new technologies and techniques to improve my skills as a developer.
 
 <br>
 <div align="center">
@@ -17,12 +17,13 @@
 </div>
 <br>
 
-
 ## <img src="https://media0.giphy.com/media/4YCCY41GKzDuYeHnWW/200.gif" width="30"> Currently Learning:
+- Software Architecture
+- Design System
+- Clean Code
+- Refactoring
+- Database
 - Cryptocurrency & Blockchain
-- Cyber Security
-- Software Design Pattern
-- UI/UX Guideline & Documentation for Frontend Implementation
 
 ## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif" width="30"> How to reach me:
 - Web: [wachidamirul.com](https://wachidamirul.com)
