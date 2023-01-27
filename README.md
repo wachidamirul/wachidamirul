@@ -37,5 +37,5 @@
 
 ---
 
-<p align="center"— Wachid Amirul Muslim —</p>
+<p align="center">— Wachid Amirul Muslim —</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:41b883,50:175c3d,100:277753&section=footer&height=80" width="100%"/>
