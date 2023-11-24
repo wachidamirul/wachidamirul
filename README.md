@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning NextJS, Python and Flutter.
 
 ### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,jquery,alpinejs,php,laravel,mysql,mongodb,express,bootstrap,tailwind,java,kotlin,flutter,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,jquery,alpinejs,php,laravel,wordpress,mysql,mongodb,express,bootstrap,tailwind,java,kotlin,flutter)
 
 ### Tools
 ![My Tools](https://skillicons.dev/icons?i=linux,vscode,neovim,androidstudio,bash,git,postman,figma,ink)
