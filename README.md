@@ -6,10 +6,10 @@
 - 🌱 I'm currently learning NextJS, Python and Flutter.
 
 ### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,jquery,alpinejs,php,laravel,mysql,mongodb,express,bootstrap,tailwind,androidstudio,java,kotlin,flutter,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,jquery,alpinejs,php,laravel,mysql,mongodb,express,bootstrap,tailwind,java,kotlin,flutter,wordpress)
 
 ### Tools
-![My Tools](https://skillicons.dev/icons?i=linux,vscode,neovim,bash,git,postman,figma,ink)
+![My Tools](https://skillicons.dev/icons?i=linux,vscode,neovim,androidstudio,bash,git,postman,figma,ink)
 
 ### How to reach me
 - Web: [wachidamirul.com](https://wachidamirul.com)
