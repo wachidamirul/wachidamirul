@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 
+<p align="center">
+    <a href="https://wakatime.com/@230e97e1-a67a-43d4-9d5b-84b78778c941"><img src="https://wakatime.com/badge/user/230e97e1-a67a-43d4-9d5b-84b78778c941.svg" alt="Total time coded since Oct 14 2022" /></a>
+</p>
+
 ### About Me
 - 👨🏻‍💻 I'm just a person who likes the latest technology and editing a bit of code.
 - 👀 I’m interested in Web Development and Mobile App Development.
