@@ -9,17 +9,20 @@
 - 👀 I’m interested in Web Development and Mobile App Development.
 - 🌱 I'm currently learning NextJS, Python and Flutter.
 
-### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,jquery,alpinejs,php,laravel,wordpress,mysql,mongodb,express,bootstrap,tailwind,java,kotlin,flutter)
-
-### Tools
-![My Tools](https://skillicons.dev/icons?i=linux,vscode,neovim,androidstudio,bash,git,postman,figma,ink)
+### Current Favorite Tech Stack/Tools
+![Favorite](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,vscode,figma)
 
 ### How to reach me
 - Web: [wachidamirul.com](https://wachidamirul.com)
 - Email: [me@wachidamirul.com](mailto:me@wachidamirul.com)
 - LinkedIn: [wachidamirul](https://www.linkedin.com/in/wachidamirul)
 - Instagram: [@wachid.amirul](https://instagram.com/wachid.amirul)
+
+### Skills 
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,jquery,alpinejs,php,laravel,wordpress,mysql,mongodb,express,bootstrap,tailwind,java,kotlin,flutter)
+
+### Tools
+![My Tools](https://skillicons.dev/icons?i=linux,vscode,neovim,androidstudio,bash,git,postman,figma,ink)
 
 <p align="center">
     <a href="https://wachidamirul.com"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=wachidamirul.com&style=flat-square&up_message=Online&url=http://wachidamirul.com"></a>
