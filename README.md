@@ -1,5 +1,5 @@
 <!-- Header Start -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descAlign=67&fontColor=ffffff)
 <!-- Header End -->
 
 <!-- Web, Visior, Wakatime Start -->
@@ -14,7 +14,7 @@
 ### About Me
 - 👨🏻‍💻 I'm just a person who likes the latest technology and editing a bit of code.
 - 👀 I’m interested in Web Development and Mobile App Development.
-- 🌱 I'm currently learning NextJS, Python and Flutter.
+- 🌱 I’m currently learning JS, React, Next, Tailwind, Type-Script, and Node.js
 <!-- About End -->
 
 <!-- Current Favorite Start -->
