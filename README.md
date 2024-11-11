@@ -1,5 +1,6 @@
 <!-- Header Start -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5921d2,25:4313ac,75:4313ac,100:5921d2&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descAlign=67&fontColor=f3f4f6)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5921d2,25:4313ac,75:4313ac,100:5921d2&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descAlign=67&fontColor=f3f4f6) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5921d2,25:4313ac,75:4313ac,100:5921d2&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=f3f4f6)
 
 
 <!-- Header End -->
@@ -16,13 +17,8 @@
 ### About Me
 - 👨🏻‍💻 I'm just a person who likes the latest technology and editing a bit of code.
 - 👀 Interested in Web Development and Mobile App Development.
-- 🌱 Currently learning JS, React, Next, Tailwind, Type-Script, and Node.js
+- 🌱 Currently learning DevOps Engineer
 <!-- About End -->
-
-<!-- Current Favorite Start -->
-### Current Favorite Tech Stack/Tools
-![My Tools](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,vscode,figma)
-<!-- Current Favorite End -->
 
 <!-- Github Stat Start -->
 ### Github Stats
@@ -31,19 +27,23 @@
 </div>
 <!-- Github Stat End -->
 
-<!-- Skills Start -->
-### Skills 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,nextjs,jquery,alpinejs,php,laravel,wordpress,prisma,postgres,mysql,mongodb,express,bootstrap,tailwind,java,kotlin,flutter)
-<!-- Skills End -->
+<!-- Current Favorite Start -->
+### Current Favorite Tech Stack/Tools
+<!--
+![Stack](https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma)
+![Tools](https://skillicons.dev/icons?i=linux,docker,git,vscode,figma)
+-->
 
-<!-- Tools Start -->
-### Tools
-![My Tools](https://skillicons.dev/icons?i=linux,vscode,neovim,androidstudio,bash,git,postman,figma,ink)
-<!-- Tools End -->
+<p align="center">
+  <a href="https://github.com/wachidamirul">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,sequelize,linux,docker,git,vscode,figma&perline=5" />
+  </a>
+</p>
+<!-- Current Favorite End -->
 
 <!-- Contact Start -->
 ### How to reach me
-- Web: [wachidamirul.com](https://wachidamirul.com)
+- Site: [wachidamirul.com](https://wachidamirul.com)
 - Email: [contact@wachidamirul.com](mailto:contact@wachidamirul.com)
 - LinkedIn: [wachidamirul](https://www.linkedin.com/in/wachidamirul)
 - Instagram: [@wachid.amirul](https://instagram.com/wachid.amirul)
