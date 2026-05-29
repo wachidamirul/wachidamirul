@@ -1,6 +1,6 @@
 <!-- Header Start -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5921d2,25:4313ac,75:4313ac,100:5921d2&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=55&descAlign=67&fontColor=f3f4f6) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5921d2,25:4313ac,75:4313ac,100:5921d2&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=f3f4f6)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Wachid%20Amirul%20M&fontSize=60&animation=fadeIn&fontAlignY=38&theme=onedark)
 
 
 <!-- Header End -->
@@ -16,8 +16,8 @@
 <!-- About Start -->
 ### About Me
 - 👨🏻‍💻 I'm just a person who likes the latest technology and editing a bit of code.
-- 👀 Interested in Web Development and Mobile App Development.
-- 🌱 Currently learning DevOps Engineer
+- 💻 Work using 4D method - Discovery, Design, Development, and Deploy.
+- 🌱 Currently learning AI-Native Engineer.
 <!-- About End -->
 
 <!-- Github Stat Start -->
@@ -54,5 +54,5 @@
 
 <!-- Footer Start -->
 <p align="center">— Wachid Amirul Muslim —</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5921d2,50:4313ac,100:5921d2&section=footer&height=80" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&theme=onedark" width="100%"/>
 <!-- Footer End -->
