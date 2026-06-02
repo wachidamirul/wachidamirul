@@ -7,8 +7,6 @@
 
 <!-- Web, Visior, Wakatime Start -->
 <div align="center">
-    <a href="https://wakatime.com/@230e97e1-a67a-43d4-9d5b-84b78778c941"><img src="https://wakatime.com/badge/user/230e97e1-a67a-43d4-9d5b-84b78778c941.svg" alt="Total time coded since Oct 14 2022" /></a>
-    <a style="display: none;" href="https://pageview.vercel.app/?github_user=wachidamirul"><img src="https://pageview.vercel.app/?github_user=wachidamirul"></a>
     <a href="https://wachidamirul.com"><img alt="Website" src="https://img.shields.io/website?down_message=Offline&label=wachidamirul.com&style=flat-square&up_message=Online&url=http://wachidamirul.com"></a>
 </div>
 <!-- Web, Visior, Wakatime End -->
